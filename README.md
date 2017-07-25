@@ -25,7 +25,7 @@ The goals steps of this project are the following:
 ## 2. Submission Files
 
 1. This writeup !
-2. The project code, which is submitted with this writeup and also availiable at [my github](https://github.com/clausqr/XXXXXX)
+2. The project code, which is submitted with this writeup and also availiable at [https://github.com/clausqr/German-Traffic-Sign-Classifier-Using-DNN](https://github.com/clausqr/German-Traffic-Sign-Classifier-Using-DNN)
 
 
 ## 3. Dataset Exploration
